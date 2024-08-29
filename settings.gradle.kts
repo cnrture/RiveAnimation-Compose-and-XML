@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "RiveXML"
+rootProject.name = "RiveCompose"
 include(":app")
  

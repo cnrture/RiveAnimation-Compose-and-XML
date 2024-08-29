@@ -1,4 +1,4 @@
-package com.canerture.rivexml
+package com.canerture.rivecompose
 
 import org.junit.Test
 
